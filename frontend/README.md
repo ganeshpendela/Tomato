@@ -2,6 +2,10 @@
 
 The frontend of the Tomato project is built using React. This part of the project provides the user interface for interacting with the platform, including browsing items, managing the cart, and placing orders.
 
+## Live Preview
+
+[Click here for a live preview of the frontend page](https://food-delivery-frontend-kxrg.onrender.com).[Takes a minute to load, since deployed in a free server]
+
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)

@@ -2,6 +2,10 @@
 
 Tomato is a full-stack website built using the MERN stack (MongoDB, Express, React, Node.js) with integrated Stripe payment processing. The project consists of a frontend for user interaction, a backend for server-side operations, and a separate admin panel for managing the application.
 
+## Live Preview
+
+[Click here for a live preview of the project](https://food-delivery-frontend-kxrg.onrender.com).[Takes a minute to load, since deployed in a free server]
+
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
