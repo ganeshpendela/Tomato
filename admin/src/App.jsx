@@ -11,7 +11,7 @@ import Orders from './pages/Orders/Orders'
 
 const App = () => {
 
-  const url = "http://localhost:4000"
+  const url = "https://food-delivery-backend-rbq2.onrender.com" || "http://localhost:4000"
   return (
     <div>
       <ToastContainer/>
