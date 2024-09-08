@@ -2,6 +2,10 @@
 
 The Admin Panel for the Tomato project is built using React. It allows administrators to manage items and orders on the platform.
 
+## Live Preview
+
+[Click here for a live preview of the admin panel](https://food-delivery-admin-fvpa.onrender.com).[Takes a minute to load, since deployed in a free server]
+
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
