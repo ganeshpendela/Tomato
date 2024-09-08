@@ -7,7 +7,7 @@ const StoreContextProvider = (props) =>{
 
     const [cartItems, setCartItems] = useState([])
 
-    const url = "http://localhost:4000"
+    const url = "https://food-delivery-backend-rbq2.onrender.com" || "http://localhost:4000"
 
     const [token,setToken] = useState("")
 
